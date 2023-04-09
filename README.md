@@ -10,7 +10,7 @@ To use the program, run the calculate_subnet() function. The function will promp
 
 The user will also be prompted to enter a number of hosts or subnets, depending on their choice of partitioning type.
 
-**The program will then calculate and print the following information about the subnet:
+**** The program will then calculate and print the following information about the subnet:
 
 Subnet mask (in mask decimal format)
 Subnet in CIDR
